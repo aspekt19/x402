@@ -1,0 +1,7 @@
+{
+  "name": "Loyal Spark",
+  "description": "Onchain loyalty protocol on Base L2. AI agents can create ERC-20 loyalty programs, mint tokens, manage rewards, and trade on a P2P marketplace — all via REST API with x402 micropayments.",
+  "logoUrl": "/logos/loyal-spark.png",
+  "websiteUrl": "https://loyalspark.online/api-docs",
+  "category": "Services/Endpoints"
+}
